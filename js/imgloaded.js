@@ -60,14 +60,14 @@
   const ldconfig = {
     light: {
 	  smallSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161423411.png?imageSlim', //浅色模式 小图链接 尽可能配置小于100k的图片 
-	  largeSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161423411.png?imageSlim', //浅色模式 大图链接 最终显示的图片
+	  largeSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/Cloudy%20(1).svg?imageSlim', //浅色模式 大图链接 最终显示的图片
 	  mobileSmallSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161423411.png?imageSlim', //手机端浅色小图链接 尽可能配置小于100k的图片
 	  mobileLargeSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161423411.png?imageSlim', //手机端浅色大图链接 最终显示的图片
 	  enableRoutes: ['/'],
 	  },
 	dark: {
 	  smallSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161410183.png?imageSlim', //深色模式 小图链接 尽可能配置小于100k的图片 
-	  largeSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161410183.png?imageSlim', //深色模式 大图链接 最终显示的图片
+	  largeSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/Cloudy.svg?imageSlim', //深色模式 大图链接 最终显示的图片
 	  mobileSmallSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161410183.png?imageSlim', //手机端深色模式小图链接 尽可能配置小于100k的图片
 	  mobileLargeSrc: 'https://tuchuang-1318407677.cos.ap-nanjing.myqcloud.com/img/20250726161410183.png?imageSlim', //手机端深色大图链接 最终显示的图片
 	  enableRoutes: ['/'],
