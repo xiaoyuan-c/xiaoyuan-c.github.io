@@ -1,3 +1,3 @@
-var posts=["2025/07/15/AlgorithmLearning/1.数组/","2025/07/16/AlgorithmLearning/4.字符串/","2025/07/16/AlgorithmLearning/2.链表/","2025/07/16/AlgorithmLearning/5.双指针/","2025/07/16/AlgorithmLearning/3.哈希表/","2025/07/16/AlgorithmLearning/6.栈与队列/","2025/07/16/AlgorithmLearning/7.二叉树/","2025/07/13/start/hello-world/","2025/07/13/start/Getting-Started-for-hexo/"];function toRandomPost(){
+var posts=["2025/07/15/AlgorithmLearning/1.数组/","2025/07/16/AlgorithmLearning/2.链表/","2025/07/16/AlgorithmLearning/3.哈希表/","2025/07/16/AlgorithmLearning/4.字符串/","2025/07/16/AlgorithmLearning/5.双指针/","2025/07/16/AlgorithmLearning/7.二叉树/","2025/07/13/start/hello-world/","2025/07/13/start/Getting-Started-for-hexo/","2025/07/16/AlgorithmLearning/6.栈与队列/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
